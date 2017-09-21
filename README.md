@@ -1,2 +1,0 @@
-# curly-waffle
-# readme
