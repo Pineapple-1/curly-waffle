@@ -2,8 +2,8 @@ img {
   width: 200px;
 }
 body {
-  bgcolor= #f0cca0;
+  background: #f0cca0;
 }
 h1 {
-  align= 'center';
+  align: 'center';
 }
